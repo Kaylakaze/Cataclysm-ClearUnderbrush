@@ -1,0 +1,13 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "kaylakazes_clear_underbrush",
+    "name": "Clear Underbrush Task",
+    "authors": [ "Kaylakaze" ],
+    "maintainers": [ "Kaylakaze" ],
+    "description": "Adds a new construction task to clear underbrush",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]
+

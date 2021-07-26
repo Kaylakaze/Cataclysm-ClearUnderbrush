@@ -1,0 +1,1346 @@
+[
+    {
+        "type": "construction",
+        "id": "constr_clear_underbrush_t_underbrush",
+        "description": "Clear Underbrush",
+        "category": "OTHER",
+        "required_skills": [
+            [
+                "survival",
+                3
+            ]
+        ],
+        "time": "1 m",
+        "tools": [
+            [
+                [
+                    "machete",
+                    -1
+                ],
+                [
+                    "makeshift_machete",
+                    -1
+                ],
+                [
+                    "scythe",
+                    -1
+                ],
+                [
+                    "sickle",
+                    -1
+                ],
+                [
+                    "survivor_machete",
+                    -1
+                ]
+            ]
+        ],
+        "byproducts": [
+            {
+                "item": "withered",
+                "count": [
+                    0,
+                    2
+                ]
+            }
+        ],
+        "pre_terrain": "t_underbrush",
+        "post_terrain": "t_grass"
+    },
+    {
+        "type": "construction",
+        "id": "constr_clear_underbrush_t_underbrush_harvested_spring",
+        "description": "Clear Underbrush",
+        "category": "OTHER",
+        "required_skills": [
+            [
+                "survival",
+                3
+            ]
+        ],
+        "time": "1 m",
+        "tools": [
+            [
+                [
+                    "machete",
+                    -1
+                ],
+                [
+                    "makeshift_machete",
+                    -1
+                ],
+                [
+                    "scythe",
+                    -1
+                ],
+                [
+                    "sickle",
+                    -1
+                ],
+                [
+                    "survivor_machete",
+                    -1
+                ]
+            ]
+        ],
+        "byproducts": [
+            {
+                "item": "withered",
+                "count": [
+                    0,
+                    2
+                ]
+            }
+        ],
+        "pre_terrain": "t_underbrush_harvested_spring",
+        "post_terrain": "t_grass"
+    },
+    {
+        "type": "construction",
+        "id": "constr_clear_underbrush_t_underbrush_harvested_summer",
+        "description": "Clear Underbrush",
+        "category": "OTHER",
+        "required_skills": [
+            [
+                "survival",
+                3
+            ]
+        ],
+        "time": "1 m",
+        "tools": [
+            [
+                [
+                    "machete",
+                    -1
+                ],
+                [
+                    "makeshift_machete",
+                    -1
+                ],
+                [
+                    "scythe",
+                    -1
+                ],
+                [
+                    "sickle",
+                    -1
+                ],
+                [
+                    "survivor_machete",
+                    -1
+                ]
+            ]
+        ],
+        "byproducts": [
+            {
+                "item": "withered",
+                "count": [
+                    0,
+                    2
+                ]
+            }
+        ],
+        "pre_terrain": "t_underbrush_harvested_summer",
+        "post_terrain": "t_grass"
+    },
+    {
+        "type": "construction",
+        "id": "constr_clear_underbrush_t_underbrush_harvested_autumn",
+        "description": "Clear Underbrush",
+        "category": "OTHER",
+        "required_skills": [
+            [
+                "survival",
+                3
+            ]
+        ],
+        "time": "1 m",
+        "tools": [
+            [
+                [
+                    "machete",
+                    -1
+                ],
+                [
+                    "makeshift_machete",
+                    -1
+                ],
+                [
+                    "scythe",
+                    -1
+                ],
+                [
+                    "sickle",
+                    -1
+                ],
+                [
+                    "survivor_machete",
+                    -1
+                ]
+            ]
+        ],
+        "byproducts": [
+            {
+                "item": "withered",
+                "count": [
+                    0,
+                    2
+                ]
+            }
+        ],
+        "pre_terrain": "t_underbrush_harvested_autumn",
+        "post_terrain": "t_grass"
+    },
+    {
+        "type": "construction",
+        "id": "constr_clear_underbrush_t_underbrush_harvested_winter",
+        "description": "Clear Underbrush",
+        "category": "OTHER",
+        "required_skills": [
+            [
+                "survival",
+                3
+            ]
+        ],
+        "time": "1 m",
+        "tools": [
+            [
+                [
+                    "machete",
+                    -1
+                ],
+                [
+                    "makeshift_machete",
+                    -1
+                ],
+                [
+                    "scythe",
+                    -1
+                ],
+                [
+                    "sickle",
+                    -1
+                ],
+                [
+                    "survivor_machete",
+                    -1
+                ]
+            ]
+        ],
+        "byproducts": [
+            {
+                "item": "withered",
+                "count": [
+                    0,
+                    2
+                ]
+            }
+        ],
+        "pre_terrain": "t_underbrush_harvested_winter",
+        "post_terrain": "t_grass"
+    },
+    {
+        "type": "construction",
+        "id": "constr_clear_underbrush_t_shrub",
+        "description": "Clear Underbrush",
+        "category": "OTHER",
+        "required_skills": [
+            [
+                "survival",
+                3
+            ]
+        ],
+        "time": "1 m",
+        "tools": [
+            [
+                [
+                    "machete",
+                    -1
+                ],
+                [
+                    "makeshift_machete",
+                    -1
+                ],
+                [
+                    "scythe",
+                    -1
+                ],
+                [
+                    "sickle",
+                    -1
+                ],
+                [
+                    "survivor_machete",
+                    -1
+                ]
+            ]
+        ],
+        "byproducts": [
+            {
+                "item": "withered",
+                "count": [
+                    0,
+                    2
+                ]
+            }
+        ],
+        "pre_terrain": "t_shrub",
+        "post_terrain": "t_grass"
+    },
+    {
+        "type": "construction",
+        "id": "constr_clear_underbrush_t_shrub_peanut",
+        "description": "Clear Underbrush",
+        "category": "OTHER",
+        "required_skills": [
+            [
+                "survival",
+                3
+            ]
+        ],
+        "time": "1 m",
+        "tools": [
+            [
+                [
+                    "machete",
+                    -1
+                ],
+                [
+                    "makeshift_machete",
+                    -1
+                ],
+                [
+                    "scythe",
+                    -1
+                ],
+                [
+                    "sickle",
+                    -1
+                ],
+                [
+                    "survivor_machete",
+                    -1
+                ]
+            ]
+        ],
+        "byproducts": [
+            {
+                "item": "withered",
+                "count": [
+                    0,
+                    2
+                ]
+            }
+        ],
+        "pre_terrain": "t_shrub_peanut",
+        "post_terrain": "t_grass"
+    },
+    {
+        "type": "construction",
+        "id": "constr_clear_underbrush_t_shrub_peanut_harvested",
+        "description": "Clear Underbrush",
+        "category": "OTHER",
+        "required_skills": [
+            [
+                "survival",
+                3
+            ]
+        ],
+        "time": "1 m",
+        "tools": [
+            [
+                [
+                    "machete",
+                    -1
+                ],
+                [
+                    "makeshift_machete",
+                    -1
+                ],
+                [
+                    "scythe",
+                    -1
+                ],
+                [
+                    "sickle",
+                    -1
+                ],
+                [
+                    "survivor_machete",
+                    -1
+                ]
+            ]
+        ],
+        "byproducts": [
+            {
+                "item": "withered",
+                "count": [
+                    0,
+                    2
+                ]
+            }
+        ],
+        "pre_terrain": "t_shrub_peanut_harvested",
+        "post_terrain": "t_grass"
+    },
+    {
+        "type": "construction",
+        "id": "constr_clear_underbrush_t_shrub_blueberry",
+        "description": "Clear Underbrush",
+        "category": "OTHER",
+        "required_skills": [
+            [
+                "survival",
+                3
+            ]
+        ],
+        "time": "1 m",
+        "tools": [
+            [
+                [
+                    "machete",
+                    -1
+                ],
+                [
+                    "makeshift_machete",
+                    -1
+                ],
+                [
+                    "scythe",
+                    -1
+                ],
+                [
+                    "sickle",
+                    -1
+                ],
+                [
+                    "survivor_machete",
+                    -1
+                ]
+            ]
+        ],
+        "byproducts": [
+            {
+                "item": "withered",
+                "count": [
+                    0,
+                    2
+                ]
+            }
+        ],
+        "pre_terrain": "t_shrub_blueberry",
+        "post_terrain": "t_grass"
+    },
+    {
+        "type": "construction",
+        "id": "constr_clear_underbrush_t_shrub_blueberry_harvested",
+        "description": "Clear Underbrush",
+        "category": "OTHER",
+        "required_skills": [
+            [
+                "survival",
+                3
+            ]
+        ],
+        "time": "1 m",
+        "tools": [
+            [
+                [
+                    "machete",
+                    -1
+                ],
+                [
+                    "makeshift_machete",
+                    -1
+                ],
+                [
+                    "scythe",
+                    -1
+                ],
+                [
+                    "sickle",
+                    -1
+                ],
+                [
+                    "survivor_machete",
+                    -1
+                ]
+            ]
+        ],
+        "byproducts": [
+            {
+                "item": "withered",
+                "count": [
+                    0,
+                    2
+                ]
+            }
+        ],
+        "pre_terrain": "t_shrub_blueberry_harvested",
+        "post_terrain": "t_grass"
+    },
+    {
+        "type": "construction",
+        "id": "constr_clear_underbrush_t_shrub_strawberry",
+        "description": "Clear Underbrush",
+        "category": "OTHER",
+        "required_skills": [
+            [
+                "survival",
+                3
+            ]
+        ],
+        "time": "1 m",
+        "tools": [
+            [
+                [
+                    "machete",
+                    -1
+                ],
+                [
+                    "makeshift_machete",
+                    -1
+                ],
+                [
+                    "scythe",
+                    -1
+                ],
+                [
+                    "sickle",
+                    -1
+                ],
+                [
+                    "survivor_machete",
+                    -1
+                ]
+            ]
+        ],
+        "byproducts": [
+            {
+                "item": "withered",
+                "count": [
+                    0,
+                    2
+                ]
+            }
+        ],
+        "pre_terrain": "t_shrub_strawberry",
+        "post_terrain": "t_grass"
+    },
+    {
+        "type": "construction",
+        "id": "constr_clear_underbrush_t_shrub_strawberry_harvested",
+        "description": "Clear Underbrush",
+        "category": "OTHER",
+        "required_skills": [
+            [
+                "survival",
+                3
+            ]
+        ],
+        "time": "1 m",
+        "tools": [
+            [
+                [
+                    "machete",
+                    -1
+                ],
+                [
+                    "makeshift_machete",
+                    -1
+                ],
+                [
+                    "scythe",
+                    -1
+                ],
+                [
+                    "sickle",
+                    -1
+                ],
+                [
+                    "survivor_machete",
+                    -1
+                ]
+            ]
+        ],
+        "byproducts": [
+            {
+                "item": "withered",
+                "count": [
+                    0,
+                    2
+                ]
+            }
+        ],
+        "pre_terrain": "t_shrub_strawberry_harvested",
+        "post_terrain": "t_grass"
+    },
+    {
+        "type": "construction",
+        "id": "constr_clear_underbrush_t_shrub_blackberry",
+        "description": "Clear Underbrush",
+        "category": "OTHER",
+        "required_skills": [
+            [
+                "survival",
+                3
+            ]
+        ],
+        "time": "1 m",
+        "tools": [
+            [
+                [
+                    "machete",
+                    -1
+                ],
+                [
+                    "makeshift_machete",
+                    -1
+                ],
+                [
+                    "scythe",
+                    -1
+                ],
+                [
+                    "sickle",
+                    -1
+                ],
+                [
+                    "survivor_machete",
+                    -1
+                ]
+            ]
+        ],
+        "byproducts": [
+            {
+                "item": "withered",
+                "count": [
+                    0,
+                    2
+                ]
+            }
+        ],
+        "pre_terrain": "t_shrub_blackberry",
+        "post_terrain": "t_grass"
+    },
+    {
+        "type": "construction",
+        "id": "constr_clear_underbrush_t_shrub_blackberry_harvested",
+        "description": "Clear Underbrush",
+        "category": "OTHER",
+        "required_skills": [
+            [
+                "survival",
+                3
+            ]
+        ],
+        "time": "1 m",
+        "tools": [
+            [
+                [
+                    "machete",
+                    -1
+                ],
+                [
+                    "makeshift_machete",
+                    -1
+                ],
+                [
+                    "scythe",
+                    -1
+                ],
+                [
+                    "sickle",
+                    -1
+                ],
+                [
+                    "survivor_machete",
+                    -1
+                ]
+            ]
+        ],
+        "byproducts": [
+            {
+                "item": "withered",
+                "count": [
+                    0,
+                    2
+                ]
+            }
+        ],
+        "pre_terrain": "t_shrub_blackberry_harvested",
+        "post_terrain": "t_grass"
+    },
+    {
+        "type": "construction",
+        "id": "constr_clear_underbrush_t_shrub_huckleberry",
+        "description": "Clear Underbrush",
+        "category": "OTHER",
+        "required_skills": [
+            [
+                "survival",
+                3
+            ]
+        ],
+        "time": "1 m",
+        "tools": [
+            [
+                [
+                    "machete",
+                    -1
+                ],
+                [
+                    "makeshift_machete",
+                    -1
+                ],
+                [
+                    "scythe",
+                    -1
+                ],
+                [
+                    "sickle",
+                    -1
+                ],
+                [
+                    "survivor_machete",
+                    -1
+                ]
+            ]
+        ],
+        "byproducts": [
+            {
+                "item": "withered",
+                "count": [
+                    0,
+                    2
+                ]
+            }
+        ],
+        "pre_terrain": "t_shrub_huckleberry",
+        "post_terrain": "t_grass"
+    },
+    {
+        "type": "construction",
+        "id": "constr_clear_underbrush_t_shrub_huckleberry_harvested",
+        "description": "Clear Underbrush",
+        "category": "OTHER",
+        "required_skills": [
+            [
+                "survival",
+                3
+            ]
+        ],
+        "time": "1 m",
+        "tools": [
+            [
+                [
+                    "machete",
+                    -1
+                ],
+                [
+                    "makeshift_machete",
+                    -1
+                ],
+                [
+                    "scythe",
+                    -1
+                ],
+                [
+                    "sickle",
+                    -1
+                ],
+                [
+                    "survivor_machete",
+                    -1
+                ]
+            ]
+        ],
+        "byproducts": [
+            {
+                "item": "withered",
+                "count": [
+                    0,
+                    2
+                ]
+            }
+        ],
+        "pre_terrain": "t_shrub_huckleberry_harvested",
+        "post_terrain": "t_grass"
+    },
+    {
+        "type": "construction",
+        "id": "constr_clear_underbrush_t_shrub_raspberry",
+        "description": "Clear Underbrush",
+        "category": "OTHER",
+        "required_skills": [
+            [
+                "survival",
+                3
+            ]
+        ],
+        "time": "1 m",
+        "tools": [
+            [
+                [
+                    "machete",
+                    -1
+                ],
+                [
+                    "makeshift_machete",
+                    -1
+                ],
+                [
+                    "scythe",
+                    -1
+                ],
+                [
+                    "sickle",
+                    -1
+                ],
+                [
+                    "survivor_machete",
+                    -1
+                ]
+            ]
+        ],
+        "byproducts": [
+            {
+                "item": "withered",
+                "count": [
+                    0,
+                    2
+                ]
+            }
+        ],
+        "pre_terrain": "t_shrub_raspberry",
+        "post_terrain": "t_grass"
+    },
+    {
+        "type": "construction",
+        "id": "constr_clear_underbrush_t_shrub_raspberry_harvested",
+        "description": "Clear Underbrush",
+        "category": "OTHER",
+        "required_skills": [
+            [
+                "survival",
+                3
+            ]
+        ],
+        "time": "1 m",
+        "tools": [
+            [
+                [
+                    "machete",
+                    -1
+                ],
+                [
+                    "makeshift_machete",
+                    -1
+                ],
+                [
+                    "scythe",
+                    -1
+                ],
+                [
+                    "sickle",
+                    -1
+                ],
+                [
+                    "survivor_machete",
+                    -1
+                ]
+            ]
+        ],
+        "byproducts": [
+            {
+                "item": "withered",
+                "count": [
+                    0,
+                    2
+                ]
+            }
+        ],
+        "pre_terrain": "t_shrub_raspberry_harvested",
+        "post_terrain": "t_grass"
+    },
+    {
+        "type": "construction",
+        "id": "constr_clear_underbrush_t_shrub_grape",
+        "description": "Clear Underbrush",
+        "category": "OTHER",
+        "required_skills": [
+            [
+                "survival",
+                3
+            ]
+        ],
+        "time": "1 m",
+        "tools": [
+            [
+                [
+                    "machete",
+                    -1
+                ],
+                [
+                    "makeshift_machete",
+                    -1
+                ],
+                [
+                    "scythe",
+                    -1
+                ],
+                [
+                    "sickle",
+                    -1
+                ],
+                [
+                    "survivor_machete",
+                    -1
+                ]
+            ]
+        ],
+        "byproducts": [
+            {
+                "item": "withered",
+                "count": [
+                    0,
+                    2
+                ]
+            }
+        ],
+        "pre_terrain": "t_shrub_grape",
+        "post_terrain": "t_grass"
+    },
+    {
+        "type": "construction",
+        "id": "constr_clear_underbrush_t_shrub_grape_harvested",
+        "description": "Clear Underbrush",
+        "category": "OTHER",
+        "required_skills": [
+            [
+                "survival",
+                3
+            ]
+        ],
+        "time": "1 m",
+        "tools": [
+            [
+                [
+                    "machete",
+                    -1
+                ],
+                [
+                    "makeshift_machete",
+                    -1
+                ],
+                [
+                    "scythe",
+                    -1
+                ],
+                [
+                    "sickle",
+                    -1
+                ],
+                [
+                    "survivor_machete",
+                    -1
+                ]
+            ]
+        ],
+        "byproducts": [
+            {
+                "item": "withered",
+                "count": [
+                    0,
+                    2
+                ]
+            }
+        ],
+        "pre_terrain": "t_shrub_grape_harvested",
+        "post_terrain": "t_grass"
+    },
+    {
+        "type": "construction",
+        "id": "constr_clear_underbrush_t_shrub_rose",
+        "description": "Clear Underbrush",
+        "category": "OTHER",
+        "required_skills": [
+            [
+                "survival",
+                3
+            ]
+        ],
+        "time": "1 m",
+        "tools": [
+            [
+                [
+                    "machete",
+                    -1
+                ],
+                [
+                    "makeshift_machete",
+                    -1
+                ],
+                [
+                    "scythe",
+                    -1
+                ],
+                [
+                    "sickle",
+                    -1
+                ],
+                [
+                    "survivor_machete",
+                    -1
+                ]
+            ]
+        ],
+        "byproducts": [
+            {
+                "item": "withered",
+                "count": [
+                    0,
+                    2
+                ]
+            }
+        ],
+        "pre_terrain": "t_shrub_rose",
+        "post_terrain": "t_grass"
+    },
+    {
+        "type": "construction",
+        "id": "constr_clear_underbrush_t_shrub_rose_harvested",
+        "description": "Clear Underbrush",
+        "category": "OTHER",
+        "required_skills": [
+            [
+                "survival",
+                3
+            ]
+        ],
+        "time": "1 m",
+        "tools": [
+            [
+                [
+                    "machete",
+                    -1
+                ],
+                [
+                    "makeshift_machete",
+                    -1
+                ],
+                [
+                    "scythe",
+                    -1
+                ],
+                [
+                    "sickle",
+                    -1
+                ],
+                [
+                    "survivor_machete",
+                    -1
+                ]
+            ]
+        ],
+        "byproducts": [
+            {
+                "item": "withered",
+                "count": [
+                    0,
+                    2
+                ]
+            }
+        ],
+        "pre_terrain": "t_shrub_rose_harvested",
+        "post_terrain": "t_grass"
+    },
+    {
+        "type": "construction",
+        "id": "constr_clear_underbrush_t_shrub_hydrangea",
+        "description": "Clear Underbrush",
+        "category": "OTHER",
+        "required_skills": [
+            [
+                "survival",
+                3
+            ]
+        ],
+        "time": "1 m",
+        "tools": [
+            [
+                [
+                    "machete",
+                    -1
+                ],
+                [
+                    "makeshift_machete",
+                    -1
+                ],
+                [
+                    "scythe",
+                    -1
+                ],
+                [
+                    "sickle",
+                    -1
+                ],
+                [
+                    "survivor_machete",
+                    -1
+                ]
+            ]
+        ],
+        "byproducts": [
+            {
+                "item": "withered",
+                "count": [
+                    0,
+                    2
+                ]
+            }
+        ],
+        "pre_terrain": "t_shrub_hydrangea",
+        "post_terrain": "t_grass"
+    },
+    {
+        "type": "construction",
+        "id": "constr_clear_underbrush_t_shrub_hydrangea_harvested",
+        "description": "Clear Underbrush",
+        "category": "OTHER",
+        "required_skills": [
+            [
+                "survival",
+                3
+            ]
+        ],
+        "time": "1 m",
+        "tools": [
+            [
+                [
+                    "machete",
+                    -1
+                ],
+                [
+                    "makeshift_machete",
+                    -1
+                ],
+                [
+                    "scythe",
+                    -1
+                ],
+                [
+                    "sickle",
+                    -1
+                ],
+                [
+                    "survivor_machete",
+                    -1
+                ]
+            ]
+        ],
+        "byproducts": [
+            {
+                "item": "withered",
+                "count": [
+                    0,
+                    2
+                ]
+            }
+        ],
+        "pre_terrain": "t_shrub_hydrangea_harvested",
+        "post_terrain": "t_grass"
+    },
+    {
+        "type": "construction",
+        "id": "constr_clear_underbrush_t_shrub_lilac",
+        "description": "Clear Underbrush",
+        "category": "OTHER",
+        "required_skills": [
+            [
+                "survival",
+                3
+            ]
+        ],
+        "time": "1 m",
+        "tools": [
+            [
+                [
+                    "machete",
+                    -1
+                ],
+                [
+                    "makeshift_machete",
+                    -1
+                ],
+                [
+                    "scythe",
+                    -1
+                ],
+                [
+                    "sickle",
+                    -1
+                ],
+                [
+                    "survivor_machete",
+                    -1
+                ]
+            ]
+        ],
+        "byproducts": [
+            {
+                "item": "withered",
+                "count": [
+                    0,
+                    2
+                ]
+            }
+        ],
+        "pre_terrain": "t_shrub_lilac",
+        "post_terrain": "t_grass"
+    },
+    {
+        "type": "construction",
+        "id": "constr_clear_underbrush_t_shrub_lilac_harvested",
+        "description": "Clear Underbrush",
+        "category": "OTHER",
+        "required_skills": [
+            [
+                "survival",
+                3
+            ]
+        ],
+        "time": "1 m",
+        "tools": [
+            [
+                [
+                    "machete",
+                    -1
+                ],
+                [
+                    "makeshift_machete",
+                    -1
+                ],
+                [
+                    "scythe",
+                    -1
+                ],
+                [
+                    "sickle",
+                    -1
+                ],
+                [
+                    "survivor_machete",
+                    -1
+                ]
+            ]
+        ],
+        "byproducts": [
+            {
+                "item": "withered",
+                "count": [
+                    0,
+                    2
+                ]
+            }
+        ],
+        "pre_terrain": "t_shrub_lilac_harvested",
+        "post_terrain": "t_grass"
+    },
+    {
+        "type": "construction",
+        "id": "constr_clear_underbrush_t_fern",
+        "description": "Clear Underbrush",
+        "category": "OTHER",
+        "required_skills": [
+            [
+                "survival",
+                3
+            ]
+        ],
+        "time": "1 m",
+        "tools": [
+            [
+                [
+                    "machete",
+                    -1
+                ],
+                [
+                    "makeshift_machete",
+                    -1
+                ],
+                [
+                    "scythe",
+                    -1
+                ],
+                [
+                    "sickle",
+                    -1
+                ],
+                [
+                    "survivor_machete",
+                    -1
+                ]
+            ]
+        ],
+        "byproducts": [
+            {
+                "item": "withered",
+                "count": [
+                    0,
+                    2
+                ]
+            }
+        ],
+        "pre_terrain": "t_fern",
+        "post_terrain": "t_grass"
+    },
+    {
+        "type": "construction",
+        "id": "constr_clear_underbrush_t_fern_harvested",
+        "description": "Clear Underbrush",
+        "category": "OTHER",
+        "required_skills": [
+            [
+                "survival",
+                3
+            ]
+        ],
+        "time": "1 m",
+        "tools": [
+            [
+                [
+                    "machete",
+                    -1
+                ],
+                [
+                    "makeshift_machete",
+                    -1
+                ],
+                [
+                    "scythe",
+                    -1
+                ],
+                [
+                    "sickle",
+                    -1
+                ],
+                [
+                    "survivor_machete",
+                    -1
+                ]
+            ]
+        ],
+        "byproducts": [
+            {
+                "item": "withered",
+                "count": [
+                    0,
+                    2
+                ]
+            }
+        ],
+        "pre_terrain": "t_fern_harvested",
+        "post_terrain": "t_grass"
+    }
+]
