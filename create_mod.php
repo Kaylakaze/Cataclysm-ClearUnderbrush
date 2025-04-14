@@ -1,6 +1,10 @@
 <?php
-
-$floraFile = file_get_contents('../../json/furniture_and_terrain/terrain-flora.json');
+if ($argc > 0) {
+    $filename = $argv[1];
+} else {
+    $filename = '../..json/furniture_and_terrain/terrain-flora.json';
+}
+$floraFile = file_get_contents($filename);
 $flora = json_decode($floraFile);
 $out = [];
 
@@ -10,7 +14,7 @@ foreach ($flora as $f) {
         $out[] = [
             'type' => 'construction',
             'id' => "constr_clear_underbrush_{$f->id}",
-            'description' => 'Clear Underbrush',
+            'group' => 'clear_underbrush',
             'category' => 'OTHER',
             'required_skills' => [
                 [

@@ -2,7 +2,7 @@
     {
         "type": "construction",
         "id": "constr_clear_underbrush_t_underbrush",
-        "description": "Clear Underbrush",
+        "group": "clear_underbrush",
         "category": "OTHER",
         "required_skills": [
             [
@@ -50,7 +50,7 @@
     {
         "type": "construction",
         "id": "constr_clear_underbrush_t_underbrush_harvested_spring",
-        "description": "Clear Underbrush",
+        "group": "clear_underbrush",
         "category": "OTHER",
         "required_skills": [
             [
@@ -98,7 +98,7 @@
     {
         "type": "construction",
         "id": "constr_clear_underbrush_t_underbrush_harvested_summer",
-        "description": "Clear Underbrush",
+        "group": "clear_underbrush",
         "category": "OTHER",
         "required_skills": [
             [
@@ -146,7 +146,7 @@
     {
         "type": "construction",
         "id": "constr_clear_underbrush_t_underbrush_harvested_autumn",
-        "description": "Clear Underbrush",
+        "group": "clear_underbrush",
         "category": "OTHER",
         "required_skills": [
             [
@@ -194,7 +194,7 @@
     {
         "type": "construction",
         "id": "constr_clear_underbrush_t_underbrush_harvested_winter",
-        "description": "Clear Underbrush",
+        "group": "clear_underbrush",
         "category": "OTHER",
         "required_skills": [
             [
@@ -242,7 +242,7 @@
     {
         "type": "construction",
         "id": "constr_clear_underbrush_t_shrub",
-        "description": "Clear Underbrush",
+        "group": "clear_underbrush",
         "category": "OTHER",
         "required_skills": [
             [
@@ -290,7 +290,7 @@
     {
         "type": "construction",
         "id": "constr_clear_underbrush_t_shrub_peanut",
-        "description": "Clear Underbrush",
+        "group": "clear_underbrush",
         "category": "OTHER",
         "required_skills": [
             [
@@ -338,7 +338,7 @@
     {
         "type": "construction",
         "id": "constr_clear_underbrush_t_shrub_peanut_harvested",
-        "description": "Clear Underbrush",
+        "group": "clear_underbrush",
         "category": "OTHER",
         "required_skills": [
             [
@@ -386,7 +386,7 @@
     {
         "type": "construction",
         "id": "constr_clear_underbrush_t_shrub_blueberry",
-        "description": "Clear Underbrush",
+        "group": "clear_underbrush",
         "category": "OTHER",
         "required_skills": [
             [
@@ -434,7 +434,7 @@
     {
         "type": "construction",
         "id": "constr_clear_underbrush_t_shrub_blueberry_harvested",
-        "description": "Clear Underbrush",
+        "group": "clear_underbrush",
         "category": "OTHER",
         "required_skills": [
             [
@@ -482,7 +482,7 @@
     {
         "type": "construction",
         "id": "constr_clear_underbrush_t_shrub_strawberry",
-        "description": "Clear Underbrush",
+        "group": "clear_underbrush",
         "category": "OTHER",
         "required_skills": [
             [
@@ -530,7 +530,7 @@
     {
         "type": "construction",
         "id": "constr_clear_underbrush_t_shrub_strawberry_harvested",
-        "description": "Clear Underbrush",
+        "group": "clear_underbrush",
         "category": "OTHER",
         "required_skills": [
             [
@@ -578,7 +578,7 @@
     {
         "type": "construction",
         "id": "constr_clear_underbrush_t_shrub_blackberry",
-        "description": "Clear Underbrush",
+        "group": "clear_underbrush",
         "category": "OTHER",
         "required_skills": [
             [
@@ -626,7 +626,7 @@
     {
         "type": "construction",
         "id": "constr_clear_underbrush_t_shrub_blackberry_harvested",
-        "description": "Clear Underbrush",
+        "group": "clear_underbrush",
         "category": "OTHER",
         "required_skills": [
             [
@@ -674,7 +674,7 @@
     {
         "type": "construction",
         "id": "constr_clear_underbrush_t_shrub_huckleberry",
-        "description": "Clear Underbrush",
+        "group": "clear_underbrush",
         "category": "OTHER",
         "required_skills": [
             [
@@ -722,7 +722,7 @@
     {
         "type": "construction",
         "id": "constr_clear_underbrush_t_shrub_huckleberry_harvested",
-        "description": "Clear Underbrush",
+        "group": "clear_underbrush",
         "category": "OTHER",
         "required_skills": [
             [
@@ -770,7 +770,7 @@
     {
         "type": "construction",
         "id": "constr_clear_underbrush_t_shrub_raspberry",
-        "description": "Clear Underbrush",
+        "group": "clear_underbrush",
         "category": "OTHER",
         "required_skills": [
             [
@@ -818,7 +818,7 @@
     {
         "type": "construction",
         "id": "constr_clear_underbrush_t_shrub_raspberry_harvested",
-        "description": "Clear Underbrush",
+        "group": "clear_underbrush",
         "category": "OTHER",
         "required_skills": [
             [
@@ -866,7 +866,7 @@
     {
         "type": "construction",
         "id": "constr_clear_underbrush_t_shrub_grape",
-        "description": "Clear Underbrush",
+        "group": "clear_underbrush",
         "category": "OTHER",
         "required_skills": [
             [
@@ -914,7 +914,7 @@
     {
         "type": "construction",
         "id": "constr_clear_underbrush_t_shrub_grape_harvested",
-        "description": "Clear Underbrush",
+        "group": "clear_underbrush",
         "category": "OTHER",
         "required_skills": [
             [
@@ -962,7 +962,7 @@
     {
         "type": "construction",
         "id": "constr_clear_underbrush_t_shrub_rose",
-        "description": "Clear Underbrush",
+        "group": "clear_underbrush",
         "category": "OTHER",
         "required_skills": [
             [
@@ -1010,7 +1010,7 @@
     {
         "type": "construction",
         "id": "constr_clear_underbrush_t_shrub_rose_harvested",
-        "description": "Clear Underbrush",
+        "group": "clear_underbrush",
         "category": "OTHER",
         "required_skills": [
             [
@@ -1058,7 +1058,7 @@
     {
         "type": "construction",
         "id": "constr_clear_underbrush_t_shrub_hydrangea",
-        "description": "Clear Underbrush",
+        "group": "clear_underbrush",
         "category": "OTHER",
         "required_skills": [
             [
@@ -1106,7 +1106,7 @@
     {
         "type": "construction",
         "id": "constr_clear_underbrush_t_shrub_hydrangea_harvested",
-        "description": "Clear Underbrush",
+        "group": "clear_underbrush",
         "category": "OTHER",
         "required_skills": [
             [
@@ -1154,7 +1154,7 @@
     {
         "type": "construction",
         "id": "constr_clear_underbrush_t_shrub_lilac",
-        "description": "Clear Underbrush",
+        "group": "clear_underbrush",
         "category": "OTHER",
         "required_skills": [
             [
@@ -1202,7 +1202,7 @@
     {
         "type": "construction",
         "id": "constr_clear_underbrush_t_shrub_lilac_harvested",
-        "description": "Clear Underbrush",
+        "group": "clear_underbrush",
         "category": "OTHER",
         "required_skills": [
             [
@@ -1250,7 +1250,7 @@
     {
         "type": "construction",
         "id": "constr_clear_underbrush_t_fern",
-        "description": "Clear Underbrush",
+        "group": "clear_underbrush",
         "category": "OTHER",
         "required_skills": [
             [
@@ -1298,7 +1298,7 @@
     {
         "type": "construction",
         "id": "constr_clear_underbrush_t_fern_harvested",
-        "description": "Clear Underbrush",
+        "group": "clear_underbrush",
         "category": "OTHER",
         "required_skills": [
             [
